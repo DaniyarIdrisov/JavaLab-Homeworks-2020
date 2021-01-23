@@ -1,0 +1,17 @@
+ru\kpfu\itis\group903\idrisov\daniyar\servlets\ProfileServlet.class
+ru\kpfu\itis\group903\idrisov\daniyar\repositories\UsersRepository.class
+ru\kpfu\itis\group903\idrisov\daniyar\servlets\LoginServlet.class
+ru\kpfu\itis\group903\idrisov\daniyar\filters\LoggingFilter.class
+ru\kpfu\itis\group903\idrisov\daniyar\config\repositories\UsersRepositoryJdbcImpl.class
+ru\kpfu\itis\group903\idrisov\daniyar\repositories\CrudRepository.class
+ru\kpfu\itis\group903\idrisov\daniyar\services\UsersService.class
+ru\kpfu\itis\group903\idrisov\daniyar\listeners\CustomServletContextListener.class
+ru\kpfu\itis\group903\idrisov\daniyar\model\User.class
+ru\kpfu\itis\group903\idrisov\daniyar\servlets\RegistrationServlet.class
+ru\kpfu\itis\group903\idrisov\daniyar\config\Helper.class
+ru\kpfu\itis\group903\idrisov\daniyar\repositories\SimpleJdbcTemplate.class
+ru\kpfu\itis\group903\idrisov\daniyar\model\User$UserBuilder.class
+ru\kpfu\itis\group903\idrisov\daniyar\services\UsersServiceImpl.class
+ru\kpfu\itis\group903\idrisov\daniyar\repositories\RowMapper.class
+ru\kpfu\itis\group903\idrisov\daniyar\filters\CookieAuthFilter.class
+ru\kpfu\itis\group903\idrisov\daniyar\servlets\LogoutServlet.class

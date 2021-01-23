@@ -1,0 +1,10 @@
+ru\kpfu\itis\group903\javalab\idrisov\daniyar\models\User$UserBuilder.class
+ru\kpfu\itis\group903\javalab\idrisov\daniyar\servlets\UsersServlet.class
+ru\kpfu\itis\group903\javalab\idrisov\daniyar\repositories\SimpleJdbcTemplate.class
+ru\kpfu\itis\group903\javalab\idrisov\daniyar\services\UsersService.class
+ru\kpfu\itis\group903\javalab\idrisov\daniyar\services\UsersServiceImpl.class
+ru\kpfu\itis\group903\javalab\idrisov\daniyar\repositories\CrudRepository.class
+ru\kpfu\itis\group903\javalab\idrisov\daniyar\repositories\RowMapper.class
+ru\kpfu\itis\group903\javalab\idrisov\daniyar\models\User.class
+ru\kpfu\itis\group903\javalab\idrisov\daniyar\repositories\UsersRepository.class
+ru\kpfu\itis\group903\javalab\idrisov\daniyar\repositories\UsersRepositoryJdbcImpl.class

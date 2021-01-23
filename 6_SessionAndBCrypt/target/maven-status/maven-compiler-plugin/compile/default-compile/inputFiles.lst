@@ -1,0 +1,17 @@
+Z:\_PROGRAMMING_\ProgrammsIDEA\Javalab\6_SessionAndBCrypt\src\main\java\ru\kpfu\itis\group903\idrisov\daniyar\services\UsersServiceImpl.java
+Z:\_PROGRAMMING_\ProgrammsIDEA\Javalab\6_SessionAndBCrypt\src\main\java\ru\kpfu\itis\group903\idrisov\daniyar\repositories\interfaces\CrudRepository.java
+Z:\_PROGRAMMING_\ProgrammsIDEA\Javalab\6_SessionAndBCrypt\src\main\java\ru\kpfu\itis\group903\idrisov\daniyar\repositories\interfaces\RowMapper.java
+Z:\_PROGRAMMING_\ProgrammsIDEA\Javalab\6_SessionAndBCrypt\src\main\java\ru\kpfu\itis\group903\idrisov\daniyar\servlets\RegistrationServlet.java
+Z:\_PROGRAMMING_\ProgrammsIDEA\Javalab\6_SessionAndBCrypt\src\main\java\ru\kpfu\itis\group903\idrisov\daniyar\listeners\CustomServletContextListener.java
+Z:\_PROGRAMMING_\ProgrammsIDEA\Javalab\6_SessionAndBCrypt\src\main\java\ru\kpfu\itis\group903\idrisov\daniyar\servlets\ProfileServlet.java
+Z:\_PROGRAMMING_\ProgrammsIDEA\Javalab\6_SessionAndBCrypt\src\main\java\ru\kpfu\itis\group903\idrisov\daniyar\filters\SessionAuthFilter.java
+Z:\_PROGRAMMING_\ProgrammsIDEA\Javalab\6_SessionAndBCrypt\src\main\java\ru\kpfu\itis\group903\idrisov\daniyar\config\FileUpdater.java
+Z:\_PROGRAMMING_\ProgrammsIDEA\Javalab\6_SessionAndBCrypt\src\main\java\ru\kpfu\itis\group903\idrisov\daniyar\services\UsersService.java
+Z:\_PROGRAMMING_\ProgrammsIDEA\Javalab\6_SessionAndBCrypt\src\main\java\ru\kpfu\itis\group903\idrisov\daniyar\repositories\interfaces\UsersRepository.java
+Z:\_PROGRAMMING_\ProgrammsIDEA\Javalab\6_SessionAndBCrypt\src\main\java\ru\kpfu\itis\group903\idrisov\daniyar\repositories\SimpleJdbcTemplate.java
+Z:\_PROGRAMMING_\ProgrammsIDEA\Javalab\6_SessionAndBCrypt\src\main\java\ru\kpfu\itis\group903\idrisov\daniyar\filters\LoggingFilter.java
+Z:\_PROGRAMMING_\ProgrammsIDEA\Javalab\6_SessionAndBCrypt\src\main\java\ru\kpfu\itis\group903\idrisov\daniyar\servlets\LoginServlet.java
+Z:\_PROGRAMMING_\ProgrammsIDEA\Javalab\6_SessionAndBCrypt\src\main\java\ru\kpfu\itis\group903\idrisov\daniyar\servlets\LogoutServlet.java
+Z:\_PROGRAMMING_\ProgrammsIDEA\Javalab\6_SessionAndBCrypt\src\main\java\ru\kpfu\itis\group903\idrisov\daniyar\config\Helper.java
+Z:\_PROGRAMMING_\ProgrammsIDEA\Javalab\6_SessionAndBCrypt\src\main\java\ru\kpfu\itis\group903\idrisov\daniyar\model\User.java
+Z:\_PROGRAMMING_\ProgrammsIDEA\Javalab\6_SessionAndBCrypt\src\main\java\ru\kpfu\itis\group903\idrisov\daniyar\repositories\UsersRepositoryJdbcImpl.java

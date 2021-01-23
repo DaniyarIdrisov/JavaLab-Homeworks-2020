@@ -1,0 +1,5 @@
+ru\kpfu\itis\javalab\idrisov\daniyar\Test.class
+ru\kpfu\itis\javalab\idrisov\daniyar\manager\EntityManager.class
+ru\kpfu\itis\javalab\idrisov\daniyar\model\User.class
+ru\kpfu\itis\javalab\idrisov\daniyar\repositories\JdbcTemplate.class
+ru\kpfu\itis\javalab\idrisov\daniyar\datasource\DatabaseConnection.class
